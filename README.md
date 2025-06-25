@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Ivanbeethoven/Luxian from USTB 🦀
 
-<!--
-**Ivanbeethoven/Ivanbeethoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust enthusiast | Cloud-native developer | Decentralized infrastructure builder
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- [Mega](https://github.com/web3infra-foundation/mega) 
+- [RK8s](https://github.com/r2cn-dev/rk8s)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 🌱 Learning & Interests
+- Rust
+- Software analysis
+- Cloud Native
+
+
+### 🤝 Let's Collaborate
+- Interested in Rust, Kubernetes, or decentralized systems?
+- Open to contributions on Mega, RK8s, or similar projects.
+- Reach me via [Email](lux1an@qq.com) 
+
+
+---
+⭐️ From [Ivanbeethoven](https://github.com/Ivanbeethoven)
