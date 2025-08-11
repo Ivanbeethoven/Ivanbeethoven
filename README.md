@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Ivanbeethoven/Luxian from USTB 🦀
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Ivanbeethoven&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=12&theme=tokyonight" />
+</a>
+
 Rust enthusiast | Cloud-native developer | Decentralized infrastructure builder
 
 ### 🔭 Current Focus
