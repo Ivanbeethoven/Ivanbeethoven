@@ -17,4 +17,4 @@ Rust enthusiast | Cloud-native developer | Decentralized infrastructure builder
 - Cloud Native
 
 ### 🤝 Let's Collaborate
-- Reach me via [Email](lux1an@qq.com) 
+- Reach me via Email：lux1an@qq.com / lux1an216@gmail.com
