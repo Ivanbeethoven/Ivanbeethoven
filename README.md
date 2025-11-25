@@ -13,8 +13,8 @@ Rust enthusiast | Cloud-native developer | Decentralized infrastructure builder
 
 ### 🌱 Learning & Interests
 - Rust
-- Software analysis
 - Cloud Native
+- AI for SE 
 
 ### 🤝 Let's Collaborate
 - Reach me via Email：lux1an@qq.com / lux1an216@gmail.com
